@@ -1,0 +1,62 @@
+# =========================
+# Python
+# =========================
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg-info/
+.eggs/
+
+# Virtual environments
+venv/
+.env/
+.venv/
+
+# =========================
+# Jupyter
+# =========================
+.ipynb_checkpoints/
+
+# =========================
+# Data files
+# =========================
+data/
+data/raw/
+data/processed/*.csv
+data/processed/*.parquet
+
+# =========================
+# Logs & outputs
+# =========================
+*.log
+reports/figures/
+
+# =========================
+# OS-specific
+# =========================
+# Windows
+Thumbs.db
+Desktop.ini
+
+# macOS
+.DS_Store
+
+# =========================
+# IDEs & Editors
+# =========================
+.vscode/*
+!.vscode/settings.json
+
+# =========================
+# Testing & CI
+# =========================
+.pytest_cache/
+.coverage
+htmlcov/
+
+# =========================
+# Misc
+# =========================
+*.tmp
+*.bak

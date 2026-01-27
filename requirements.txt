@@ -1,0 +1,26 @@
+# Core data handling
+pandas>=2.1
+numpy>=1.26
+
+# Data acquisition
+yfinance>=0.2
+
+# Visualization
+matplotlib>=3.8
+seaborn>=0.13
+
+# Statistics & time series
+statsmodels>=0.14
+pmdarima>=2.0
+
+# Machine learning & preprocessing
+scikit-learn>=1.4
+
+# Deep learning (LSTM)
+tensorflow>=2.15
+
+# Portfolio optimization
+PyPortfolioOpt>=1.5
+
+# Utilities
+scipy>=1.11
