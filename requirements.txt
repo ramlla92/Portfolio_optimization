@@ -24,3 +24,7 @@ PyPortfolioOpt>=1.5
 
 # Utilities
 scipy>=1.11
+
+# Notebook support
+jupyter>=1.0
+ipykernel>=6.30
